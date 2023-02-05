@@ -1,0 +1,16 @@
+{
+"id":"abcdef01-0000-0000-0000-abcdef012345",
+"client":{"name":"nomedocliente","id":"00000000-0000-0000-0000-000000000000"},
+"delivery":[{ "id":"00000000-0000-0000-0000-000000000000", "name" : "nome do endereco de entra", "address":"endereco de entrega", "observation":["Observacao 01"]}],
+"itemsrequest":[{"id":"00000000-0000-0000-0000-000000000000", "sequenceitem":1, "itemname": "Nome do item pedido", "quantity":1, "observations":["",""]}],
+"itemsprocessed":[{"id":"00000000-0000-0000-0000-000000000000", "sequenceitem":1, "itemname": "Nome do item pedido", "quantity":1, "observations":["",""], "price":{"value":0.25, "currency":"R$"}}],
+"services":[{"id":"00000000-0000-0000-0000-000000000000", "name":"service name", "description":["Service Description"], "price":{"value":0.25, "currency":"R$"}}],
+"others":["",""],
+"total":{"price":{"value":0.26, "currency":"R$"}},
+"status":[
+{"description":"quotation", "statusid":"00000000-0000-0000-0000-000000000000", "statussequence":0},
+{"description":"confirmed", "statusid":"00000000-0000-0000-0000-000000000000", "statussequence":0},
+{"description":"departed", "statusid":"00000000-0000-0000-0000-000000000000", "statussequence":0},
+{"description":"delivered", "statusid":"00000000-0000-0000-0000-000000000000", "statussequence":0}, 
+{"description":"closed", "statusid":"00000000-0000-0000-0000-000000000000", "statussequence":0}]
+}

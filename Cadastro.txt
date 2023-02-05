@@ -1,0 +1,23 @@
+{
+"nome":{
+"primeironome":"",
+"segundonome":""
+},
+"endereco":{
+  "rua":"minha rua",
+  "numero":0,
+  "cep":"0000-001",
+  "bairro":"bairro",
+  "cidade":"cidade",
+  "estado":"estado"
+},
+"profissao":{
+  "ocupacao":"ocupacao",
+  "salario":100.0,
+  "NomeEmpregador":"Empresa"
+},
+"especial":{
+  "categoria":"preferencial",
+  "necessidades":["necessidade","acomodacao", "comida"]
+}
+}
